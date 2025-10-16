@@ -1,5 +1,12 @@
-**/.*
-*.gem
-Gemfile.lock
-vendor/bundle/
-tmp/
+
+# @yasinkuyu
+
+/app/config.py
+/db/orders.db
+/binance-trader.log
+
+**/env
+*.pyc
+.pyc
+.DS_Store
+.gitignore
